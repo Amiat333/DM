@@ -5,7 +5,7 @@ _Es una página estática informativa como tributo a la banda de música conocid
 ## Comenzando 🚀
 
 _Un enlace a la visualización de la misma_
-_https://amiat333.github.io/DM/
+https://amiat333.github.io/DM/
 
 ### Instalación 🔧
 
