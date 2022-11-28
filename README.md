@@ -4,17 +4,17 @@ _Es una página estática informativa como tributo a la banda de música conocid
 
 ## Comenzando 🚀
 
-_Un enlace a la visualización de la misma_
+Un enlace a la visualización de la misma
 
 https://amiat333.github.io/DM/
 
 ### Instalación 🔧
 
-_Esta web se realizó con la herramienta Visual Studio Code._
+Esta web se realizó con la herramienta Visual Studio Code.
 
 ## Construido con 🛠️
 
-_Las tecnologías utilizadas para la elaboración del sitio web han sido:_
+Las tecnologías utilizadas para la elaboración del sitio web han sido:
 
 HTML5
 
